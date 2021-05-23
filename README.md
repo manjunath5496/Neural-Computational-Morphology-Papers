@@ -4,78 +4,61 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(1).pdf" style="text-decoration:none;">Morphological Analysis by Multiple Sequence Alignment</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(2).pdf" style="text-decoration:none;">Computational methods for descriptive and theoretical morphology: a brief introduction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(3).pdf" style="text-decoration:none;">A Primer on Neural Network Models for Natural Language Processing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(4).pdf" style="text-decoration:none;">Morphological Inflection Generation Using Character Sequence to Sequence Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(5).pdf" style="text-decoration:none;">Cross-lingual, Character-Level Neural Morphological Tagging</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(6).pdf" style="text-decoration:none;">Morphological Word Embeddings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(7).pdf" style="text-decoration:none;">Computational learning of morphology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(8).pdf" style="text-decoration:none;"> Knowledge-Free Induction of Inflectional Morphologies</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(9).pdf" style="text-decoration:none;">Minimally supervised morphological analysis by multimodal alignment</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(10).pdf" style="text-decoration:none;">Multilingual Noise-Robust Supervised Morphological Analysis using the WordFrame Model </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(11).pdf" style="text-decoration:none;">Unsupervised Learning of the Morphology of a Natural Language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(12).pdf" style="text-decoration:none;">Processing Non-Concatenative Morphology – A Developmental Computational Model</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(13).pdf" style="text-decoration:none;">A resource-light approach to morpho-syntactic tagging.Anna Feldman and Jirka Hana</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(14).pdf" style="text-decoration:none;">An Extensive Empirical Evaluation of Character-Based Morphological Tagging for 14 Languages</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(15).pdf" style="text-decoration:none;">Applications of Computational Morphology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(16).pdf" style="text-decoration:none;">Unsupervised Models for Morpheme Segmentation and Morphology Learning</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(17).pdf" style="text-decoration:none;">Supervised Learning of Complete Morphological Paradigms</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(18).pdf" style="text-decoration:none;">Universal Dependencies and Morphology for Hungarian – and on the Price of Universality</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(19).pdf" style="text-decoration:none;">Finite-State Locality in Semitic Root-and-Pattern Morphology</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(20).pdf" style="text-decoration:none;">Resource-light Approaches to Computational Morphology, Part 1: Monolingual Approaches</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(21).pdf" style="text-decoration:none;">Computational Morphology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(22).pdf" style="text-decoration:none;">Induction of the morphology of natural language: unsupervised morpheme segmentation with application to automatic speech recognition</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(23).pdf" style="text-decoration:none;">A two-level morphological analysis of English</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(24).pdf" style="text-decoration:none;">Arabic Computational Morphology in the West</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(25).pdf" style="text-decoration:none;">Unsupervised Morphology Induction UsingWord Embeddings</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(26).pdf" style="text-decoration:none;">An Arabic language resource for computational morphology based on the Semitic model</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(27).pdf" style="text-decoration:none;">Cross-lingual Models of Word Embeddings: An Empirical Comparison</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(28).pdf" style="text-decoration:none;">Cross-Lingual Morphological Tagging for Low-Resource Languages</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(29).pdf" style="text-decoration:none;">ParaMor and Morpho Challenge 2008 </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(30).pdf" style="text-decoration:none;">An algorithm for suffix stripping</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(31).pdf" style="text-decoration:none;">Multidirectional leveraging for computational morphology and language documentation and revitalization</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(32).pdf" style="text-decoration:none;">SMOR: A German Computational Morphology Covering Derivation, Composition and Inflection</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Computational-Morphology-Papers/blob/master/n(33).pdf" style="text-decoration:none;">ParaMor: Minimally Supervised Induction of Paradigm Structure and Morphological Analysis</a></li>                              
 
   </ul>
